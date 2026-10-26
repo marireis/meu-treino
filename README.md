@@ -1,4 +1,4 @@
-# Meu Treino — aplicativo web para iPhone
+# Meu Treino — aplicativo web 
 
 Aplicação PWA sem backend, sem mensalidade e sem cadastro.
 
